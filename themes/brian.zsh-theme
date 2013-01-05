@@ -23,4 +23,3 @@ else
 fi
 
 PROMPT='%{$fg[yellow]%}[%~% ]%(?.%{$fg[green]%}.%{$fg[red]%})%B →%b '
-
